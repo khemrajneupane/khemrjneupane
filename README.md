@@ -17,9 +17,9 @@ Check out my work: **[khemrajneupane.com](https://www.khemrajneupane.com/)**
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrjneupane&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khemrjneupane&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khemrjneupane&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khemrjneupane&layout=compact&theme=default)
 
 ## 🔗 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.khemrajneupane.com/)
